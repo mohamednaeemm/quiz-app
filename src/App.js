@@ -1,5 +1,5 @@
 import './App.css';
-import React, {useState, useContext} from 'react'
+import React, {useState} from 'react'
 import MainMenu from './components/MainMenu'
 import Quiz from './components/Quiz';
 import EndScreen from './components/EndScreen';
