@@ -2,6 +2,11 @@
 
 A simple quiz application built with React to test users' knowledge on various topics through multiple-choice questions.
 
+## Live Demo
+
+Check out the live version here: [Quiz App on GitHub Pages](https://mohamednaeemm.github.io/quiz-app)
+
+
 ## Screenshots
 
 ![Quiz App Screenshot](screen.png)
